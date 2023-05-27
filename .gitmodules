@@ -1,0 +1,6 @@
+[submodule "ICE-lang"]
+	path = ICE-lang
+	url = git@github.com:ConnerTenn/ICE-lang.git
+[submodule "ICE-shell"]
+	path = ICE-shell
+	url = git@github.com:ConnerTenn/ICE-shell.git
